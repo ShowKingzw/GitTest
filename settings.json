@@ -1,0 +1,68 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.commandCenter": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.unicodeHighlight.includeStrings": false,
+    "editor.unicodeHighlight.allowedLocales": {
+        "zh-hant": true,
+        "zh-hans": true
+    },
+    "editor.fontSize": 20,
+    "terminal.integrated.enableMultiLinePasteWarning":"never",
+    //屏蔽文件夹或文件
+    "files.exclude": {
+        "**/__pycache__": true, // 屏蔽.__pycache__文件夹
+        "**/.vscode": true, // 屏蔽.vscode文件夹
+        "**/.idea": true, // 屏蔽.idea文件夹
+        "**/.vs":true, // 屏蔽.vs文件夹
+        "*.ini": true // 屏蔽.ini文件
+    },
+    //打开csv文件使用gbk编码
+    "[csv]": {
+        "files.encoding": "gbk"
+    },
+    "editor.fontFamily": "Source Code Pro, 'Courier New', monospace",
+    //"editor.fontFamily": "Cascadia Mono, 'Courier New', monospace",
+    "update.mode": "manual",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "update.showReleaseNotes": false,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontFamily": "Microsoft YaHei Mono",
+    "terminal.integrated.smoothScrolling": true,
+    "mssql.connections": [
+        {
+            "server": "localhost",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": false,
+            "profileName": "User",
+            "encrypt": "Mandatory",
+            "trustServerCertificate": true,
+            "connectTimeout": 15,
+            "commandTimeout": 30,
+            "applicationName": "vscode-mssql"
+        }
+    ],
+    "mssql.objectExplorer.groupBySchema": false,
+    "sql-formatter.uppercase": true,
+    "[sql]": {
+       // "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",//避免终端运行中报错
+    "terminal.integrated.focusAfterRun": "terminal",//自动聚焦到终端
+    "[c]": { //默认c文件用gbk，使在命令行手动执行编译时，中文不乱码。一切
+        "files.encoding": "gbk"
+    }
+    
+}
