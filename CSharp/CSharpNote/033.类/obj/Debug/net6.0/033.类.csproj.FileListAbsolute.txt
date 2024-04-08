@@ -1,0 +1,14 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\bin\Debug\net6.0\033.类.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\bin\Debug\net6.0\033.类.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\bin\Debug\net6.0\033.类.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\bin\Debug\net6.0\033.类.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\bin\Debug\net6.0\033.类.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\refint\033.类.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\033.类.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\033.类\obj\Debug\net6.0\ref\033.类.dll

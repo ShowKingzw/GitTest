@@ -1,0 +1,11 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\bin\Debug\WindowsFormsApp1(dotnet).exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\bin\Debug\WindowsFormsApp1(dotnet).exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\bin\Debug\WindowsFormsApp1(dotnet).pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1(dotnet).csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1(dotnet).csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1_dotnet_.Form1.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1_dotnet_.Properties.Resources.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1(dotnet).csproj.GenerateResource.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1(dotnet).csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1(dotnet).exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp1(dotnet)\obj\Debug\WindowsFormsApp1(dotnet).pdb

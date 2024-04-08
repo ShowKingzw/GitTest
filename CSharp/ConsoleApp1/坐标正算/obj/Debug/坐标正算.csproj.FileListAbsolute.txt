@@ -1,0 +1,11 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\bin\Debug\坐标正算.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\bin\Debug\坐标正算.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\bin\Debug\坐标正算.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.Form1.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.Properties.Resources.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\坐标正算\obj\Debug\坐标正算.pdb

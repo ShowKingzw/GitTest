@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\bin\Debug\net6.0\006.交换变量.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\bin\Debug\net6.0\006.交换变量.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\bin\Debug\net6.0\006.交换变量.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\bin\Debug\net6.0\006.交换变量.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\bin\Debug\net6.0\006.交换变量.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\refint\006.交换变量.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\006.交换变量.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\006.交换变量\obj\Debug\net6.0\ref\006.交换变量.dll

@@ -1,0 +1,22 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.exe.config
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\bin\Debug\009.算术运算符.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\009.算术运算符\obj\Debug\009.算术运算符.pdb

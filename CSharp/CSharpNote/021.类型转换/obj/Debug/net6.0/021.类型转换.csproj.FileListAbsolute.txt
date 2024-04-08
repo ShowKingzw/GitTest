@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\bin\Debug\net6.0\021.类型转换.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\bin\Debug\net6.0\021.类型转换.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\bin\Debug\net6.0\021.类型转换.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\bin\Debug\net6.0\021.类型转换.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\bin\Debug\net6.0\021.类型转换.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\refint\021.类型转换.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\021.类型转换.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\021.类型转换\obj\Debug\net6.0\ref\021.类型转换.dll

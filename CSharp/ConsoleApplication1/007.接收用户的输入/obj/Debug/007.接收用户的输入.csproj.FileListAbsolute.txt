@@ -1,0 +1,22 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.exe.config
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\bin\Debug\007.接收用户的输入.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\007.接收用户的输入\obj\Debug\007.接收用户的输入.pdb

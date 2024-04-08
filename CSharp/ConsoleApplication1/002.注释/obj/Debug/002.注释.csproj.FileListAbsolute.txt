@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\002.注释\bin\Debug\002.注释.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\002.注释\bin\Debug\002.注释.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\002.注释\bin\Debug\002.注释.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\002.注释\obj\Debug\002.注释.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\002.注释\obj\Debug\002.注释.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\002.注释\obj\Debug\002.注释.pdb

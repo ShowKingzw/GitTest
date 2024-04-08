@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\001.Hello World\bin\Debug\001.Hello World.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\001.Hello World\bin\Debug\001.Hello World.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\001.Hello World\bin\Debug\001.Hello World.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\bin\Debug\001.Hello World.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\bin\Debug\001.Hello World.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\bin\Debug\001.Hello World.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\001.Hello World\obj\Debug\001.Hello World.pdb

@@ -1,0 +1,1 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>bbda_note.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AF%BC%E5%85%A5%E5%AF%BC%E5%87%BA">数据的导入导出</h1>
+<h2 id="%E5%AF%BC%E5%85%A5%E6%95%B0%E6%8D%AE">导入数据</h2>
+<h3 id="1%E5%AF%BC%E5%85%A5excel%E8%A1%A8%E6%A0%BC">1、导入Excel表格</h3>
+<p><code>read_excel()</code>参数如下：</p>
+<ol>
+<li><code>sheet_name</code>:默认第一页表格，表格的<code>sheet</code></li>
+<li><code>index_col</code>:指定表格哪一列作为<code>DataFrame</code>的索引（可理解表格最左边一列的），从<code>0</code>开始</li>
+<li><code>nrows</code>:控制导入的前行数，对于导入体积大的文件比较有用</li>
+<li><code>skipfooter</code>:跳过表格底部的若干行</li>
+<li><code>header</code>:当使用<code>Pandas</code>的<code>read_excel()</code>时，默认表格第一行为字段名，如果第一段不是字段名，则需要设置，设置为字符串组成的列表</li>
+<li><code>usecols</code>:控制导入Excel表格的哪些列，参数本质是一个列表，每个元素是导入列的下标，仅导入下标对应列</li>
+<li><code>names</code>:对导入数据的列名重命名，具体是一个列表，其中1个元素（str）对应1列的列名</li>
+</ol>
+<h3 id="2%E5%AF%BC%E5%85%A5csv%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE">2、导入csv格式数据</h3>
+<ol>
+<li><code>read_csv()</code>常用参数如下：</li>
+<li><code>sep</code>表示要导入的分隔符csv文件一般默认是逗号</li>
+<li><code>encoding</code>表示编码，一般为<code>gbk</code>或<code>utf-8</code></li>
+<li><code>nrows</code>:控制导入的前行数</li>
+<li><code>usecols</code>:控制导入Excel表格的哪些列</li>
+<li><code>names</code>:对导入数据的列名重命名</li>
+</ol>
+<h3 id="3%E5%AF%BC%E5%85%A5json%E6%95%B0%E6%8D%AE">3、导入JSON数据</h3>
+<p>JSON在互联网很常见，有时候后台导出来就是JSON文件。其实际存储的是一个JSON数组或JSON对象。JSON对象由多个键值对组成，类似Python字典。JSON数组可由多个JSON对象组成，类似Python列表。
+JSON文件的注释:</p>
+<pre class="hljs"><code><div>{
+    <span class="hljs-attr">"json"</span>:<span class="hljs-string">"data1"</span>, <span class="hljs-comment">//这里是注释</span>
+    <span class="hljs-attr">"JSON"</span>:<span class="hljs-string">"data2"</span>  <span class="hljs-comment">//这里是注释</span>
+}
+</div></code></pre>
+<p><code>read_json()</code>用于导入json数据</p>
+<h3 id="4%E5%AF%BC%E5%85%A5txt%E6%95%B0%E6%8D%AE">4、导入txt数据</h3>
+<p><code>read_table()</code>用于导入txt文件，参数和用法与<code>read_csv()</code>类似。</p>
+<h3 id="5%E5%AF%BC%E5%85%A5%E7%88%AC%E5%8F%96%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE">5、导入（爬取）网络数据</h3>
+<p>爬取表格类数据用的是<code>pandas</code>的<code>read_html()</code>方法。其导入的是<code>html</code>中的<code>&lt;table&gt;&lt;/table&gt;</code>标签。</p>
+<p><code>read_html()</code>参数如下：</p>
+<ol>
+<li>io:本质为字符串，可以是文件路径也可以是url链接，网址不接受https，可改为http后再爬取。</li>
+<li>header:指定列表标题所在行</li>
+<li>index_col:指定行标题所在的列</li>
+</ol>
+<h2 id="%E8%BE%93%E5%87%BA%E6%95%B0%E6%8D%AE">输出数据</h2>
+<h3 id="1csv%E6%A0%BC%E5%BC%8F%E8%BE%93%E5%87%BA%E6%95%B0%E6%8D%AE%E8%BE%93%E5%87%BA">1、csv格式输出数据输出</h3>
+<p><code>pandas</code>中的<code>to_csv()</code>导出数据，需指定文件名和编码。</p>
+<p>常用参数：</p>
+<ol>
+<li>path_or_buf:指定要保存的路径和文件名</li>
+<li>sep:分隔符</li>
+<li>columns:指定要输出的列，用列名列表表示，默认None</li>
+<li>header:是否输出列名，默认True</li>
+<li>index:是否输出索引，默认True</li>
+<li>encoding:默认<code>utf-8</code></li>
+</ol>
+<h3 id="2excel%E6%A0%BC%E5%BC%8F%E6%95%B0%E6%8D%AE%E8%BE%93%E5%87%BA">2、Excel格式数据输出</h3>
+<p><code>to_excel()</code>导出
+<code>sheet_name</code>,<code>header</code>与之前的使用方法相同</p>
+<p><code>index</code>bool型，默认True，行名</p>
+<p><code>index_label</code>字符串或序列，默认None，文件使用多索引，则要用序列</p>
+<p><code>encoding</code>默认None</p>
+<p>导入到多个sheet页：先用<code>pd.ExcelWriter</code>打开文件,首先要有sheet页 ，最后<code>to_Excel()</code>将数据导入到sheet页中</p>
+<h1 id="%E6%95%B0%E6%8D%AE%E7%9A%84%E9%A2%84%E5%A4%84%E7%90%86">数据的预处理</h1>
+<h2 id="%E7%86%9F%E6%82%89%E6%95%B0%E6%8D%AE">熟悉数据</h2>
+<h3 id="1%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%9F%A5%E7%9C%8B">1、数据表的基本信息查看</h3>
+<p>导入数据后，使用<code>info()</code>进行查看数据基本信息</p>
+<h3 id="2%E6%95%B0%E6%8D%AE%E8%A1%A8%E5%A4%A7%E5%B0%8F">2、数据表大小</h3>
+<p>使用<code>shape()</code>查看，<code>shape[0]</code>是行数，<code>shape[1]</code>是列数，例如：</p>
+<pre class="hljs"><code><div>d = df.shape[<span class="hljs-number">0</span>]  <span class="hljs-comment"># 这是返回行数</span>
+w = df.shape[<span class="hljs-number">1</span>]  <span class="hljs-comment"># 这是返回列数</span>
+</div></code></pre>
+<h3 id="3%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E7%9A%84%E6%9F%A5%E7%9C%8B">3、数据格式的查看</h3>
+<p>查看<code>DataFrame</code>中的数据类型，是字符串还是数字格式。使用<code>dtype</code>和<code>dtypes</code>属性，其中<code>series</code>数据可用<code>dtype</code>属性查看，<code>DataFrame</code>数据可用<code>dtypes</code>属性查看。例如：</p>
+<pre class="hljs"><code><div>print(df.dtypes)
+print(array.dtype) <span class="hljs-comment"># array是数组</span>
+</div></code></pre>
+<h3 id="4%E6%9F%A5%E7%9C%8B%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83">4、查看数据分布</h3>
+<p>查看数据的各元素的个数、均值、方差、最小值、最大值和分位数。使用<code>describe()</code>函数进行查看统计量特征。</p>
+<ol>
+<li>其返回值用<code>count</code>表示</li>
+<li><code>mean</code>表示数据的平均值</li>
+<li><code>std</code>表示数据的标准差</li>
+<li><code>min</code>表示数据的最小值</li>
+<li><code>max</code>表示数据最大值</li>
+<li><code>25%</code>，<code>50%</code>，<code>75%</code>分别表示数据一分位，二分位，三分位数。</li>
+</ol>
+<h2 id="%E7%BC%BA%E5%A4%B1%E5%80%BC%E5%A4%84%E7%90%86">缺失值处理</h2>
+<h3 id="1%E7%BC%BA%E5%A4%B1%E5%80%BC%E6%A3%80%E6%9F%A5">1、缺失值检查</h3>
+<p>对于爬取的csv文件，要检查缺失个数，汇总。使用<code>isnull()</code>方法检查，返回值为bool值，缺失则True，否则False。例如：</p>
+<pre class="hljs"><code><div>print(df.isnull())  
+print(df.isnull().sum())  <span class="hljs-comment"># 统计各列缺失个数</span>
+</div></code></pre>
+<h3 id="2%E7%BC%BA%E5%A4%B1%E5%80%BC%E5%88%A0%E9%99%A4">2、缺失值删除</h3>
+<ol>
+<li>使用<code>dropna()</code>函数进行删除含有缺失值的行,只要有缺失值就会删除当前行，例如：</li>
+</ol>
+<pre class="hljs"><code><div>df.dropna()
+</div></code></pre>
+<ol start="2">
+<li>当某行和某列都为<code>NaN</code>时，才删除整行或整列的情况，使用<code>dropna()</code>的<code>how</code>参数。例如：</li>
+</ol>
+<pre class="hljs"><code><div>df.dropna(how=<span class="hljs-string">'all'</span>,axis=<span class="hljs-number">0</span>) <span class="hljs-comment"># 当整行都是NaN,才删除整行</span>
+<span class="hljs-comment"># axis=0是行，1是列；axis是轴</span>
+</div></code></pre>
+<blockquote>
+<p><code>NaN</code> (Not a Number)，非数，一种数据类型。</p>
+</blockquote>
+<ol start="3">
+<li>当某行或某列有一个<code>NaN</code>时，就删除整行或整列的情况，设置<code>how='any'</code>,行列由<code>axis</code>控制。</li>
+</ol>
+<h3 id="3%E7%BC%BA%E5%A4%B1%E5%80%BC%E6%9B%BF%E6%8D%A2%E5%A1%AB%E5%85%85">3、缺失值替换、填充</h3>
+<p>如均值填补法、近邻填补法、插值填补法等等。</p>
+<ol>
+<li>利用均值填补缺失数据<code>fillna()</code>函数，以各列值的均值作为参数。例如：</li>
+</ol>
+<pre class="hljs"><code><div>df.fillna(df.mean())
+</div></code></pre>
+<ol start="2">
+<li>近邻填补法，<code>method</code>参数设置为<code>bfill</code>，使用缺失值后面的数据进行填充；当<code>method</code>参数设置为<code>ffill</code>则利用缺失值前面的值进行填充。例如：</li>
+</ol>
+<pre class="hljs"><code><div>df.fillna(method=<span class="hljs-string">'bfill'</span>) <span class="hljs-comment"># 后</span>
+df.fillna(method=<span class="hljs-string">'ffill'</span>) <span class="hljs-comment"># 前</span>
+</div></code></pre>
+<ol start="3">
+<li>利用二次多项式插值填充法对item2列的缺失值进行填充。使用<code>interpolate</code>方法及其<code>order</code>参数</li>
+</ol>
+
+</body>
+</html>

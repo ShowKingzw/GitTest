@@ -1,0 +1,11 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\bin\Debug\ToArea.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\bin\Debug\ToArea.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\bin\Debug\ToArea.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\GetArea.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\GetArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\ToArea.Properties.Resources.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\GetArea.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\GetArea.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\ToArea.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\ToArea.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ToArea\obj\Debug\ToArea.HomePage.resources

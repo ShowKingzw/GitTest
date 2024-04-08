@@ -1,0 +1,14 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\bin\Debug\net6.0\ChatGPT坐标正算程序.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\bin\Debug\net6.0\ChatGPT坐标正算程序.deps.json
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\bin\Debug\net6.0\ChatGPT坐标正算程序.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\bin\Debug\net6.0\ChatGPT坐标正算程序.dll
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\bin\Debug\net6.0\ChatGPT坐标正算程序.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.dll
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\refint\ChatGPT坐标正算程序.dll
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ChatGPT坐标正算程序.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ChatGPT坐标正算程序\obj\Debug\net6.0\ref\ChatGPT坐标正算程序.dll

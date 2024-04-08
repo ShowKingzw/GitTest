@@ -1,0 +1,18 @@
+A001|小米Pad|4699|数码产品|小米最新Pad......|/images/pad1.jpg|小米科技有限公司|2023-06-01|2000
+B001|GIS原理|59|图书|GIS相关de|/images/11.jpg|人民邮电出版社|2023-06-01|50
+B002|XPad|2999.99|数码产品|高性能处理器|/images/pad.jpg|X科技公司|2023-06-02|50
+PDT004|Java编程入门|59.99|图书|适合初学者的Java编程入门教材|/images/book1.jpg|人民邮电出版社|2023-06-01|10
+PDT005|Python数据分析|79.99|图书|介绍Python数据分析的实用指南|/images/book2.jpg|清华大学出版社|2023-06-01|15
+PDT006|数据结构与算法|49.99|图书|讲解常见数据结构与算法的教材|/images/book3.jpg|人民邮电出版社|2023-06-01|20
+C001|Apple AirPods|1299|数码产品|无线蓝牙耳机......|/images/airpods.jpg|Apple Inc.|2023-06-03|100
+C002|Samsung Galaxy S21|5999|数码产品|三星最新旗舰手机......|/images/galaxy_s21.jpg|Samsung Electronics|2023-06-04|80
+C003|Sony PlayStation 5|3999|游戏机|次世代游戏主机......|/images/ps5.jpg|Sony Corporation|2023-06-05|30
+F001|Nike Air Max 90|699|服装|经典跑鞋......|/images/air_max_90.jpg|Nike, Inc.|2023-06-06|200
+F002|Adidas Stan Smith|499|服装|经典休闲鞋......|/images/stan_smith.jpg|Adidas AG|2023-06-07|150
+F003|Gucci GG Marmont Bag|2999|配饰|时尚手提包......|/images/gg_marmont.jpg|Gucci Group|2023-06-08|50
+E001|Amazon Echo Dot|299|智能设备|语音助手......|/images/echo_dot.jpg|Amazon.com, Inc.|2023-06-09|100
+E002|Google Nest Hub|199|智能设备|智能家居控制中心......|/images/nest_hub.jpg|Google LLC|2023-06-10|80
+E003|Apple Watch Series 6|2999|数码产品|智能手表......|/images/apple_watch.jpg|Apple Inc.|2023-06-11|50
+A002|华为MateBook X Pro|7999|数码产品|轻薄笔记本电脑......|/images/matebook_x_pro.jpg|华为技术有限公司|2023-06-12|30
+A003|ThinkPad X1 Carbon|9999|数码产品|商务轻薄笔记本电脑......|/images/thinkpad_x1_carbon.jpg|联想集团|2023-06-13|20
+A004|Dell XPS 13|8999|数码产品|高性能轻薄笔记本电脑......|/images/dell_xps_13.jpg|戴尔科技|2023-06-14|40

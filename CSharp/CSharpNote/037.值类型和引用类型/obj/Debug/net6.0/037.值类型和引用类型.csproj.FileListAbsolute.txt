@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\bin\Debug\net6.0\037.值类型和引用类型.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\bin\Debug\net6.0\037.值类型和引用类型.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\bin\Debug\net6.0\037.值类型和引用类型.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\bin\Debug\net6.0\037.值类型和引用类型.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\bin\Debug\net6.0\037.值类型和引用类型.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\refint\037.值类型和引用类型.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\037.值类型和引用类型.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\037.值类型和引用类型\obj\Debug\net6.0\ref\037.值类型和引用类型.dll

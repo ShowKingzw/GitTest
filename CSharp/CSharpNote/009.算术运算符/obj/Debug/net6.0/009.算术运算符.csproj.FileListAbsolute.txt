@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\bin\Debug\net6.0\009.算术运算符.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\bin\Debug\net6.0\009.算术运算符.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\bin\Debug\net6.0\009.算术运算符.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\bin\Debug\net6.0\009.算术运算符.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\bin\Debug\net6.0\009.算术运算符.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\refint\009.算术运算符.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\009.算术运算符.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\009.算术运算符\obj\Debug\net6.0\ref\009.算术运算符.dll

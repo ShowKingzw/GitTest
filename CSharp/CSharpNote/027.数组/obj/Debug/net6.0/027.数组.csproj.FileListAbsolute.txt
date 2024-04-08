@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\bin\Debug\net6.0\027.数组.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\bin\Debug\net6.0\027.数组.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\bin\Debug\net6.0\027.数组.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\bin\Debug\net6.0\027.数组.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\bin\Debug\net6.0\027.数组.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\refint\027.数组.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\027.数组.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\027.数组\obj\Debug\net6.0\ref\027.数组.dll

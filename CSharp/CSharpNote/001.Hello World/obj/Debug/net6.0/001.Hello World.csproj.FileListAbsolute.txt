@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\bin\Debug\net6.0\001.Hello World.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\bin\Debug\net6.0\001.Hello World.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\bin\Debug\net6.0\001.Hello World.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\bin\Debug\net6.0\001.Hello World.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\bin\Debug\net6.0\001.Hello World.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\refint\001.Hello World.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\001.Hello World.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\001.Hello World\obj\Debug\net6.0\ref\001.Hello World.dll

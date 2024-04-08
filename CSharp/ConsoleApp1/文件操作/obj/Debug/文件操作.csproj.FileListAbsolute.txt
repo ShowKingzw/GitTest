@@ -1,0 +1,6 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\文件操作\obj\Debug\文件操作.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\文件操作\obj\Debug\文件操作.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\文件操作\obj\Debug\文件操作.Form1.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\文件操作\obj\Debug\文件操作.Properties.Resources.resources
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\文件操作\obj\Debug\文件操作.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\文件操作\obj\Debug\文件操作.csproj.CoreCompileInputs.cache

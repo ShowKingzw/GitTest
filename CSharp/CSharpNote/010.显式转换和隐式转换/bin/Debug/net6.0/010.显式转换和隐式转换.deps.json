@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "010.显式转换和隐式转换/1.0.0": {
+        "runtime": {
+          "010.显式转换和隐式转换.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010.显式转换和隐式转换/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

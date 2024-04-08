@@ -1,0 +1,7 @@
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

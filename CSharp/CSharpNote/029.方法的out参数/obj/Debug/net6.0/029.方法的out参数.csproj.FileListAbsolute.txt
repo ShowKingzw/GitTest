@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\bin\Debug\net6.0\029.方法的out参数.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\bin\Debug\net6.0\029.方法的out参数.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\bin\Debug\net6.0\029.方法的out参数.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\bin\Debug\net6.0\029.方法的out参数.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\bin\Debug\net6.0\029.方法的out参数.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\refint\029.方法的out参数.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\029.方法的out参数.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\029.方法的out参数\obj\Debug\net6.0\ref\029.方法的out参数.dll

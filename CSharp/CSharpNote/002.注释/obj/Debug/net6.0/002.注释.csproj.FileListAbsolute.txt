@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\bin\Debug\net6.0\002.注释.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\bin\Debug\net6.0\002.注释.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\bin\Debug\net6.0\002.注释.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\bin\Debug\net6.0\002.注释.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\bin\Debug\net6.0\002.注释.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\refint\002.注释.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\002.注释.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\002.注释\obj\Debug\net6.0\ref\002.注释.dll

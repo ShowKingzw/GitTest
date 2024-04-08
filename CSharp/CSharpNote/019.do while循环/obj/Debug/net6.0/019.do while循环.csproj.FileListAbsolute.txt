@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\bin\Debug\net6.0\019.do while循环.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\bin\Debug\net6.0\019.do while循环.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\bin\Debug\net6.0\019.do while循环.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\bin\Debug\net6.0\019.do while循环.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\bin\Debug\net6.0\019.do while循环.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\refint\019.do while循环.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\019.do while循环.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\019.do while循环\obj\Debug\net6.0\ref\019.do while循环.dll

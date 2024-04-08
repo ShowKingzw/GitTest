@@ -1,0 +1,29 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: gcc.exe 生成活动文件",
+            "command": "C:\\Program Files\\mingw64\\bin\\gcc.exe",
+            "args": [
+                "-fdiagnostics-color=always", // 指定 GCC 输出诊断信息时使用彩色显示
+                "-g", // 生成调试信息
+                "${file}", //源文件路径
+                "-o", // 指定输出
+                "${fileDirname}\\${fileBasenameNoExtension}.exe", // 可执行文件路径
+                "-finput-charset=GBK" // 使用 GBK 编码来调试运行编译
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        }
+    ],
+    "version": "2.0.0"
+}

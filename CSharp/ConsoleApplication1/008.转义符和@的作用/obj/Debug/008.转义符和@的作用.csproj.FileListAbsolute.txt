@@ -1,0 +1,22 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csprojResolveAssemblyReference.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.exe.config
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\bin\Debug\008.转义符和@的作用.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\008.转义符和@的作用\obj\Debug\008.转义符和@的作用.pdb

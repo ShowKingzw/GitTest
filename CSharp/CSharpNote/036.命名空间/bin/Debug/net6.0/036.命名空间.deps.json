@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "036.命名空间/1.0.0": {
+        "dependencies": {
+          "033.类": "1.0.0"
+        },
+        "runtime": {
+          "036.命名空间.dll": {}
+        }
+      },
+      "033.类/1.0.0": {
+        "runtime": {
+          "033.类.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "036.命名空间/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "033.类/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

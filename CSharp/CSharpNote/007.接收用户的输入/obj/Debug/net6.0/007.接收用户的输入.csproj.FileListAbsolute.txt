@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\bin\Debug\net6.0\007.接收用户的输入.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\bin\Debug\net6.0\007.接收用户的输入.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\bin\Debug\net6.0\007.接收用户的输入.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\bin\Debug\net6.0\007.接收用户的输入.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\bin\Debug\net6.0\007.接收用户的输入.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\refint\007.接收用户的输入.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\007.接收用户的输入.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\007.接收用户的输入\obj\Debug\net6.0\ref\007.接收用户的输入.dll

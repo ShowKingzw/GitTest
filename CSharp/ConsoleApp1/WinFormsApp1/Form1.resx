@@ -1,0 +1,263 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="labelSum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 169</value>
+  </data>
+  <data name="labelSum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="labelSum.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="labelSum.Text" xml:space="preserve">
+    <value>Sum</value>
+  </data>
+  <data name="&gt;&gt;labelSum.Name" xml:space="preserve">
+    <value>labelSum</value>
+  </data>
+  <data name="&gt;&gt;labelSum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelSum.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelSum.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="labelY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 102</value>
+  </data>
+  <data name="labelY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="labelY.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="labelY.Text" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="&gt;&gt;labelY.Name" xml:space="preserve">
+    <value>labelY</value>
+  </data>
+  <data name="&gt;&gt;labelY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelY.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelY.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="labelX.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 41</value>
+  </data>
+  <data name="labelX.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 23</value>
+  </data>
+  <data name="labelX.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="labelX.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;labelX.Name" xml:space="preserve">
+    <value>labelX</value>
+  </data>
+  <data name="&gt;&gt;labelX.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelX.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelX.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBoxX.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 38</value>
+  </data>
+  <data name="textBoxX.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 30</value>
+  </data>
+  <data name="textBoxX.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.Name" xml:space="preserve">
+    <value>textBoxX</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBoxX.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBoxY.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 102</value>
+  </data>
+  <data name="textBoxY.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 30</value>
+  </data>
+  <data name="textBoxY.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.Name" xml:space="preserve">
+    <value>textBoxY</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBoxY.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="buttonSwitch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 225</value>
+  </data>
+  <data name="buttonSwitch.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 50</value>
+  </data>
+  <data name="buttonSwitch.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="buttonSwitch.Text" xml:space="preserve">
+    <value>Switch</value>
+  </data>
+  <data name="&gt;&gt;buttonSwitch.Name" xml:space="preserve">
+    <value>buttonSwitch</value>
+  </data>
+  <data name="&gt;&gt;buttonSwitch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonSwitch.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonSwitch.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="buttonEnter.Location" type="System.Drawing.Point, System.Drawing">
+    <value>240, 227</value>
+  </data>
+  <data name="buttonEnter.Size" type="System.Drawing.Size, System.Drawing">
+    <value>151, 48</value>
+  </data>
+  <data name="buttonEnter.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="buttonEnter.Text" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="&gt;&gt;buttonEnter.Name" xml:space="preserve">
+    <value>buttonEnter</value>
+  </data>
+  <data name="&gt;&gt;buttonEnter.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonEnter.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonEnter.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxSum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 163</value>
+  </data>
+  <data name="textBoxSum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>208, 30</value>
+  </data>
+  <data name="textBoxSum.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;textBoxSum.Name" xml:space="preserve">
+    <value>textBoxSum</value>
+  </data>
+  <data name="&gt;&gt;textBoxSum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxSum.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBoxSum.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>11, 24</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>461, 329</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Sum Demo</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>WinForm1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

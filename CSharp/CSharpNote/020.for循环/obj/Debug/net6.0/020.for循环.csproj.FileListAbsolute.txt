@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\bin\Debug\net6.0\020.for循环.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\bin\Debug\net6.0\020.for循环.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\bin\Debug\net6.0\020.for循环.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\bin\Debug\net6.0\020.for循环.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\bin\Debug\net6.0\020.for循环.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\refint\020.for循环.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\020.for循环.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\020.for循环\obj\Debug\net6.0\ref\020.for循环.dll

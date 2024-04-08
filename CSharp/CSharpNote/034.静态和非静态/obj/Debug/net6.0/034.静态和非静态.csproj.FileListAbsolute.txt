@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\bin\Debug\net6.0\034.静态和非静态.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\bin\Debug\net6.0\034.静态和非静态.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\bin\Debug\net6.0\034.静态和非静态.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\bin\Debug\net6.0\034.静态和非静态.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\bin\Debug\net6.0\034.静态和非静态.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\refint\034.静态和非静态.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\034.静态和非静态.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\034.静态和非静态\obj\Debug\net6.0\ref\034.静态和非静态.dll

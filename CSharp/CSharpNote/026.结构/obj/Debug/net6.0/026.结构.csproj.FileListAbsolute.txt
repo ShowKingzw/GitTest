@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\bin\Debug\net6.0\026.结构.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\bin\Debug\net6.0\026.结构.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\bin\Debug\net6.0\026.结构.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\bin\Debug\net6.0\026.结构.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\bin\Debug\net6.0\026.结构.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\refint\026.结构.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\026.结构.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\026.结构\obj\Debug\net6.0\ref\026.结构.dll

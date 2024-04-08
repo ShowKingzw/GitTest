@@ -1,0 +1,15 @@
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\bin\Debug\net6.0\011.计算实例.exe
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\bin\Debug\net6.0\011.计算实例.deps.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\bin\Debug\net6.0\011.计算实例.runtimeconfig.json
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\bin\Debug\net6.0\011.计算实例.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\bin\Debug\net6.0\011.计算实例.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.AssemblyInfoInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.AssemblyInfo.cs
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\refint\011.计算实例.dll
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.pdb
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\011.计算实例.genruntimeconfig.cache
+C:\Users\Legion\Documents\Code\CSharp\CSharpNote\011.计算实例\obj\Debug\net6.0\ref\011.计算实例.dll

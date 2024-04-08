@@ -1,0 +1,22 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.exe.config
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\bin\Debug\005.占位符.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\005.占位符\obj\Debug\005.占位符.pdb

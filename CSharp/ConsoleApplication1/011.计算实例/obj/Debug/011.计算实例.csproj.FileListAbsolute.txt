@@ -1,0 +1,22 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.exe.config
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.pdb
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.exe
+C:\Users\Legion\Documents\C# Code\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.exe.config
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\bin\Debug\011.计算实例.pdb
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.exe
+C:\Users\Legion\Documents\Code\CSharp\ConsoleApplication1\011.计算实例\obj\Debug\011.计算实例.pdb
