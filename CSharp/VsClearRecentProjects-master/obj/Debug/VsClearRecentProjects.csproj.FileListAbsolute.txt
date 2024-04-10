@@ -1,0 +1,11 @@
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\bin\Debug\VsClearRecentProjects.exe.config
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\bin\Debug\VsClearRecentProjects.exe
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\bin\Debug\VsClearRecentProjects.pdb
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.csproj.AssemblyReference.cache
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.ClearRecentProjectsForm.resources
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.Properties.Resources.resources
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.csproj.GenerateResource.cache
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.exe
+C:\Users\Legion\Documents\Code\CSharp\VsClearRecentProjects-master\obj\Debug\VsClearRecentProjects.pdb
